@@ -45,7 +45,7 @@ Now you can run the project.
 flask run
 
 ```
-You could use Postman to test all the endpoints. Just import
+You could use Postman to test all the endpoints. Just import "tea networks.postman_collection.json" file. All the inputs are ready for you.
 
 
 ![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/postman%20outputs/post.PNG?raw=true)
