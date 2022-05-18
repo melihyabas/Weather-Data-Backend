@@ -45,4 +45,12 @@ Now you can run the project.
 flask run
 
 ```
-You could use Postman
+You could use Postman to test all the endpoints. Just import
+
+
+![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/postman%20outputs/post.PNG?raw=true)
+![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/postman%20outputs/post1.PNG?raw=true)
+![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/postman%20outputs/post2.PNG?raw=true)
+![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/postman%20outputs/post3.PNG?raw=true)
+![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/postman%20outputs/post4.PNG?raw=true)
+
