@@ -45,3 +45,4 @@ Now you can run the project.
 flask run
 
 ```
+You could use Postman
