@@ -1,0 +1,6 @@
+Flask==2.1.2
+Flask_Cors==3.0.10
+#psycopg2==2.9.3
+psycopg2_binary==2.9.3
+pytz==2022.1
+Werkzeug==2.1.2
