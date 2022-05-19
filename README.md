@@ -26,13 +26,15 @@ Install requirements using terminal
 
 Open a database manager like PgAdmin4
 
-Create a database using credentials in app.py.
+Create a database using the same credentials with app.py.
 
 ![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/databasecreation/credent.PNG?raw=true)
 
 ![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/databasecreation/ss1.PNG?raw=true)
+
 Right click on db and select restore.
 ![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/databasecreation/ss2.PNG?raw=true)
+
 Select database.sql and save it.
 ![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/databasecreation/ss3.PNG?raw=true)
 ![ss1](https://github.com/melihyabas/Weather-Data-Backend/blob/main/databasecreation/ss4.PNG?raw=true)
